@@ -21,3 +21,11 @@ Credits
 -------
 
 This package was created with [Cookiecutter](https://github.com/audreyr/cookiecutter) and the [audreyr/cookiecutter-pypackage](https://github.com/audreyr/cookiecutter-pypackage) project template.
+
+## Development notes
+
+Installing the development version of the package in the virtual environment (assuming the venv has been activated):
+
+```
+python3 setup.py develop
+```
