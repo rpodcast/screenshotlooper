@@ -24,6 +24,10 @@ This package was created with [Cookiecutter](https://github.com/audreyr/cookiecu
 
 ## Development notes
 
+Assorted links to help with development:
+* https://dev.to/thefern/argparse-and-script-entry-points-4cde
+* https://dev.to/thefern/another-package-with-cookiecutter-578d
+
 Installing the development version of the package in the virtual environment (assuming the venv has been activated):
 
 ```
